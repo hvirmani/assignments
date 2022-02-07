@@ -10,14 +10,14 @@
 | **[Assignment-6](https://github.com/hvirmani/assignment-6)** | **Compiler Api**| 
 | **[Assignment-7](https://github.com/hvirmani/assignment-7)** | **Resume Builder**| 
 | **[Assignment-8](https://github.com/hvirmani/assignment-8)** | **Static Ecommerce**| 
-| **[Assignment-9](https://github.com/hvirmani/assignment-9)** | **Reipe App**| 
+| **[Assignment-9](https://github.com/hvirmani/assignment-9)** | **Recipe App**| 
 | **[Assignment-10](https://github.com/hvirmani/assignment-10)** | **Being Geeky**| 
 | **[Assignment-11](https://github.com/hvirmani/assignment-11)** | **Search App**| 
 | **[Assignment-12](https://github.com/hvirmani/assignment-12)** | **Burger Builder**| 
 | **[Assignment-13](https://github.com/hvirmani/assignment-13)** | **BMI Calculator**| 
 | **[Assignment-14](https://github.com/hvirmani/assignment-14)** | **Authentication**| 
-| **[Assignment-15](https://github.com/hvirmani/assignment-15)** | **React Todo**| 
-| **[Assignment-16](https://github.com/hvirmani/assignment-16)** | **CQ Clone**| 
+| **[Assignment-15](https://determined-wiles-e53395.netlify.app)** | **React Todo**| 
+| **[Assignment-16](https://stupefied-shannon-1bea9a.netlify.app)** | **CQ Clone**| 
 | **[Assignment-17](https://github.com/hvirmani/assignment-17)** | **React Ecommerce**| 
 | **[Assignment-18](https://compassionate-carson-8f9d15.netlify.app)** | **FireChat**| 
 | **[Assignment-19](https://github.com/hvirmani/assignment-19)** | **Backend**| 
