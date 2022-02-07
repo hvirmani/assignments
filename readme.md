@@ -19,6 +19,6 @@
 | **[Assignment-15](https://github.com/hvirmani/assignment-15)** | **React Todo**| 
 | **[Assignment-16](https://github.com/hvirmani/assignment-16)** | **CQ Clone**| 
 | **[Assignment-17](https://github.com/hvirmani/assignment-17)** | **React Ecommerce**| 
-| **[Assignment-18](https://github.com/hvirmani/assignment-18)** | **FireChat**| 
+| **[Assignment-18](https://compassionate-carson-8f9d15.netlify.app)** | **FireChat**| 
 | **[Assignment-19](https://github.com/hvirmani/assignment-19)** | **Backend**| 
 | **[Assignment-20](https://github.com/hvirmani/assignment-20)** | **Todo Backend**| 
